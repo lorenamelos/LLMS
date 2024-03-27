@@ -1,4 +1,4 @@
-# Largue Lnguague Models Projects
+# Largue Languague Models Projects
 
 This is my repository to explore my studies on LLMs. 
 
